@@ -1,21 +1,22 @@
-# Hawkins Archives – UI Concept
+# Hawkins Archives Landing Page
 
-A Stranger Things–inspired landing page presenting a classified paranormal archive. Built with pure HTML & CSS focusing on typography and layout.
+A clean and cinematic static landing page inspired by *Stranger Things*.  
+Designed to practice bold typography, layout composition, and atmospheric UI design.
 
-## Tech
-- HTML5  
-- CSS3 (Flexbox, backgrounds)  
-- Remix Icons  
-- Gilroy Font  
-
-## Features
-- Cinematic hero typography  
+## 🌟 Features
+- Mystery-themed cinematic UI  
+- Large editorial typography  
 - Case card layout  
-- Hover interactions  
-- Minimal navigation  
+- Minimal and clean navigation  
+- Fully static and lightweight  
 
-## Structure
-hawkins-archives/
-│── index.html  
-│── style.css  
+## 🛠 Tech Stack
+- HTML  
+- CSS  
 
+## 🚀 Live Demo
+https://vedantthorat24.github.io/hawkins-archives-staticwebsite/
+
+---
+
+⚠️ This project is a fan-made UI concept and is not affiliated with or endorsed by the creators of Stranger Things.
